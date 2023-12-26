@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: ([https://your-live-site-url.com](https://blog-preview-card-silk.vercel.app/))
+- Live Site URL: (https://blog-preview-card-silk.vercel.app/)
 
 ## My process
 
